@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "601334450430",
+    "firebase_url": "https://taskflow-ai-f1533-default-rtdb.firebaseio.com",
+    "project_id": "taskflow-ai-f1533",
+    "storage_bucket": "taskflow-ai-f1533.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601334450430:android:566406b507ae13e1187daf",
+        "android_client_info": {
+          "package_name": "com.tm1988.taskflowai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601334450430-ink8semsm0i3hucd6uc750gftops5vss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5lIakthPIFtL2YNbOXvayrkM7hGvTNo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601334450430-ink8semsm0i3hucd6uc750gftops5vss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
